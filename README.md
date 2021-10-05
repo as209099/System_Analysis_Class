@@ -9,9 +9,8 @@
 
 ## font effect
 
-**粗ㄉ**
-*斜ㄛ*
-~~刪除~~
+**bold**
+*斜體*
 
 ## Coding
 
