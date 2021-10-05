@@ -46,6 +46,7 @@ normal
 
 Colons can be used to align columns.
 |  id  |      content      |  dollar  |
+|  left  |      center      |  right  |
 | :------- |  :---------:  | -----: |
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
